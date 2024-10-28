@@ -1,4 +1,4 @@
-# Twitter Bot Detection
+# 🤖 Twitter Bot Detection
 
 ## Overview
 A deep learning component that detects Twitter bots using a hybrid approach combining text analysis and numerical features. Part of a larger system for detecting social media misinformation.
